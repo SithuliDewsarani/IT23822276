@@ -1,6 +1,5 @@
 # IT23822276
 
-<<<<<<< HEAD
 ITPM Playwright AssignmentIT23822276 - Kularathna N.S.D.
 
 
@@ -12,15 +11,13 @@ ITPM Playwright assignment 1
 IT3040 – ITPM Assignment 1
 
 
-=======
+
 
 IT23822276 - Kularathna N.S.D.
 
 ITPM Playwright assignment 1
 
 IT3040 – ITPM Assignment 1  
->>>>>>> 31315fa519c3cb7716091a1980a8015cf7253ede
-
 Singlish to Sinhala Translator – Playwright Automation
 
 
