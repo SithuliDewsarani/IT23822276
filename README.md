@@ -8,7 +8,7 @@ ITPM Playwright assignment 1
 
 
 
-IT3040 – ITPM Assignment 1
+
 
 
 
@@ -26,13 +26,13 @@ This project automates the testing of a "Singlish to Sinhala transliteration web
 
 
 
-<<<<<<< HEAD
+
 Application under test:
 
 
-=======
+
 Application under test:  
->>>>>>> 31315fa519c3cb7716091a1980a8015cf7253ede
+
 
 https://www.swifttranslator.com/
 
@@ -42,7 +42,7 @@ All tests are performed at the "UI level", in accordance with the assignment sco
 
 
 
-<<<<<<< HEAD
+
 Objective
 
 
